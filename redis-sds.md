@@ -1,4 +1,5 @@
-#redis-sds结构
+##redis-sds结构
+
 struct {
     int len;//标识具体的字符创的长，其中不包括最后一个'\0';
     int free;//没有使用的空间
