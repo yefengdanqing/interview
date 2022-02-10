@@ -1,4 +1,5 @@
 // This file is a "Hello, world!" in C++ language by GCC for wandbox.
+https://www.cnblogs.com/QG-whz/p/4777312.html
 #include <iostream>
 #include <cstdlib>
 #include <algorithm>
@@ -51,6 +52,7 @@ public:
 	}
 	
 private:
+	//主要的点
         U_Ptr *rp;  
 };
 
